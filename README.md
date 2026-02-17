@@ -6,8 +6,8 @@ The tool is designed for large datasets and automation pipelines where structure
 
 Installation
 1. Clone repository
-git clone https://github.com/yourusername/formatcsv.git
-cd formatcsv
+git clone https://github.com/phenomenalCode/dataops-formatter.git
+cd dataops-formatter
 
 2. Create virtual environment (recommended)
 python -m venv venv
