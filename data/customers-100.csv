@@ -1,0 +1,26 @@
+name,email,city
+John Doe,john@example.com,Stockholm
+Jane Smith,jane@example.com,Gothenburg
+Bob Lee,bob@example.com,Malmö
+Anna Svensson,anna.svensson@example.com,Uppsala
+Erik Johansson,erik.j@example.com,Västerås
+Maria Karlsson,maria.k@example.com,Örebro
+Lars Andersson,lars.a@example.com,Linköping
+Sara Nilsson,sara.nilsson@example.com,Helsingborg
+Oskar Persson,oskar.p@example.com,Jönköping
+Emma Larsson,emma.l@example.com,Norrköping
+Filip Eriksson,filip.e@example.com,Lund
+Elin Gustafsson,elin.g@example.com,Umeå
+Anton Lindberg,anton.l@example.com,Gävle
+Hanna Berg,hanna.berg@example.com,Borlänge
+Viktor Holm,viktor.holm@example.com,Sundsvall
+Julia Sandberg,julia.s@example.com,Halmstad
+Daniel Wallin,daniel.w@example.com,Växjö
+Maja Lundgren,maja.l@example.com,Karlstad
+Simon Nyström,simon.n@example.com,Trollhättan
+Ida Falk,ida.falk@example.com,Kalmar
+Oscar Ström,oscar.strom@example.com,Skövde
+Lina Dahl,lina.d@example.com,Falun
+Marcus Berglund,marcus.b@example.com,Östersund
+Sofia Ek,sofia.ek@example.com,Luleå
+Alexander Fors,alex.fors@example.com,Kiruna

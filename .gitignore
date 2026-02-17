@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+
+# Output files
+*.txt
+*.html
+dist/
+reports/
+
+# IDE
+.vscode/
+.idea/
+.log
+.logs/
+# OS files
+.DS_Store
+Thumbs.db
