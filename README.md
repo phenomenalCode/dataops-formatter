@@ -167,21 +167,3 @@ CLI tool development
 Automation pipeline thinking
 
 This project reflects practical automation thinking transferable to IT operations, infrastructure, and system administration environments.
-
-##Linux & Infrastructure Learning
-
-I actively use Linux in virtualized environments to build hands-on experience with system administration and infrastructure operations.
-
-Current Focus
-
-Linux server setup and configuration
-
-Command-line operations and scripting
-
-Networking basics and troubleshooting
-
-Automation and workflow efficiency
-
-System administration fundamentals
-
-This practice supports my transition toward infrastructure, automation, and security-oriented roles.
